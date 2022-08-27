@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on insurance, but I'm really looking for a new job.
+- 🔭 I’m currently working at a Insurance Company, but I'm really looking for a new job.
 - 🌱 I’m currently learning front end.
 - 🤔 I’m looking for help with improve in dev carrer.
 - ⚡ Fun fact: I love run!
