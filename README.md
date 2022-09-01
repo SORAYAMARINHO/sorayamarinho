@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at a Insurance Company, but I'm really looking for a new job.
+- 🔭 I’m currently working at a Insurance Company, but I'm studying to be a developer.
 - 🌱 I’m currently learning front end.
-- 🤔 I’m looking for help with improve in dev carrer.
+- 🤔 I’m looking for help with improve in dev carreer.
 - ⚡ Fun fact: I love run!
 -->
 
@@ -33,8 +33,7 @@
  	 <a href="https://discord.gg/kBB2qemu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sorayamarinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sorayamarinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/sorayamarinho/sorayamarinho/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 Footer
