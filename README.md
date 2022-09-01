@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working at a Insurance Company, but I'm studying to be a developer.
-- 🌱 I’m currently learning front end.
-- 🤔 I’m looking for help with improve in dev carreer.
-- ⚡ Fun fact: I love run!
+<a href="https://www.instagram.com/vinimagalhaes_artes/"><img align="left" alt="Viny_arts" height="160" style="border-radius:50px;" src="https://github.com/SORAYAMARINHO/sorayamarinho/blob/main/IMG_20180601_070245_573.jpg?raw=true"></a>
+- 🔭 I’m currently working at a Insurance Company, but I'm studying to be a developer. <br>
+- 🌱 I’m currently learning front end.<br>
+- 🤔 I’m looking for help with improve in dev carreer.<br>
+- ⚡ Fun fact: I love run!<br>
 -->
 
 
@@ -22,7 +22,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1GHy47t8qizOulDN0VBYUBi0udBeoyK86/view?usp=sharingwidth=676&height=676">
+  
 </div>
   
   ##
