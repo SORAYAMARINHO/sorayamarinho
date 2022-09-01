@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/vinimagalhaes_artes/"><img align="left" alt="Viny_arts" height="160" style="border-radius:50px;" src="https://github.com/SORAYAMARINHO/sorayamarinho/blob/main/IMG_20180601_070245_573.jpg?raw=true"></a>
+
 - 🔭 I’m currently working at a Insurance Company, but I'm studying to be a developer. <br>
 - 🌱 I’m currently learning front end.<br>
 - 🤔 I’m looking for help with improve in dev carreer.<br>
@@ -33,6 +33,7 @@
  	 <a href="https://discord.gg/kBB2qemu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sorayamarinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sorayamarinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 
  
 </div>
