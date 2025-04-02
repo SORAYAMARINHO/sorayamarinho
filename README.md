@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at a Insurance Company, but I'm studying to be a developer. <br>
+- 🔭 I’m currently working at another carreer, but I'm studying to be a developer. <br>
 - 🌱 I’m currently learning front end.<br>
-- 🤔 I’m looking for help with improve in dev carreer.<br>
+- 🤔 I’m looking for improve myself as a dev.<br>
 - ⚡ Fun fact: I love run!<br>
 -->
 
